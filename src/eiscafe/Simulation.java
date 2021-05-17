@@ -10,8 +10,9 @@ public class Simulation {
 
     public static void main(String[] args) {
 
-        // die Simulation läuft für 10 * 5 Minuten = 50 Minuten
-        int simulationsDauer = 20;
+        // die Simulation läuft für 8 Ticks, es werden also 8 Gruppen aus 3 bis 5 Besuchern im Abstand von 5 Sekunden
+        // = 5 Minuten in der Simulation erzeugt
+        int simulationsDauer = 8;
         int gastID = 0;
 
         Eiscafe cafe = new Eiscafe();

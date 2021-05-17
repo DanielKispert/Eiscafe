@@ -24,8 +24,9 @@ public class Kellner {
     /**
      * der Kellner bearbeitet eine Bestellung, dies dauert 3 bis 8 Minuten
      */
-    public void bestellungBearbeiten() {
-        System.out.println(name + " bearbeitet eine Bestellung");
+    public void bestellungBearbeiten(int gastID) {
+        long startTime = System.currentTimeMillis();
+        System.out.println(name + " bearbeitet die Bestellung von Gast " + gastID);
         this.istBeschaeftigt = true;
         // warte zwischen 3000 und 8000 Millisekunden (3 bis 8 Minuten in der Simulation)
         try {
@@ -34,6 +35,6 @@ public class Kellner {
             e.printStackTrace();
         }
         this.istBeschaeftigt = false;
-        System.out.println(name + " ist fertig mit der Bestellung");
+        System.out.println(name + " ist fertig mit der Bestellung von Gast " + gastID + ". Es dauerte " + (System.currentTimeMillis() - startTime) / 1000.0 + " Minuten");
     }
 }
