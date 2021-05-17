@@ -1,0 +1,273 @@
+"D:\Program Files\jdk-15.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\lib\idea_rt.jar=56679:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath D:\Git\Eiscafe\out\production\Eiscafe eiscafe.Simulation
+Gast 1 möchte das Cafe betreten. Aktuell warten 0 Gäste auf einen Platz.
+Gast 1 hat einen Sitzplatz nach 0.007 Minuten bekommen. Noch 5 Sitze frei.
+Gast 5 möchte das Cafe betreten. Aktuell warten 0 Gäste auf einen Platz.
+Gast 5 hat einen Sitzplatz nach 0.0 Minuten bekommen. Noch 4 Sitze frei.
+Gast 4 möchte das Cafe betreten. Aktuell warten 0 Gäste auf einen Platz.
+Gast 4 hat einen Sitzplatz nach 0.0 Minuten bekommen. Noch 3 Sitze frei.
+Gast 3 möchte das Cafe betreten. Aktuell warten 0 Gäste auf einen Platz.
+Gast 3 hat einen Sitzplatz nach 0.0 Minuten bekommen. Noch 2 Sitze frei.
+Gast 2 möchte das Cafe betreten. Aktuell warten 0 Gäste auf einen Platz.
+Gast 2 hat einen Sitzplatz nach 0.0 Minuten bekommen. Noch 1 Sitze frei.
+Gast 3 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 0 Gäste auf einen Kellner.
+Gast 3 konnte nach 0.0 Minuten bestellen.
+Tom bearbeitet die Bestellung von Gast 3
+Gast 1 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 0 Gäste auf einen Kellner.
+Gast 1 konnte nach 0.0 Minuten bestellen.
+Susi bearbeitet die Bestellung von Gast 1
+Gast 4 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 0 Gäste auf einen Kellner.
+Gast 4 konnte nach 0.0 Minuten bestellen.
+Alex bearbeitet die Bestellung von Gast 4
+Gast 5 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 0 Gäste auf einen Kellner.
+Gast 2 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 6 möchte das Cafe betreten. Aktuell warten 0 Gäste auf einen Platz.
+Gast 6 hat einen Sitzplatz nach 0.0 Minuten bekommen. Noch 0 Sitze frei.
+Gast 8 möchte das Cafe betreten. Aktuell warten 0 Gäste auf einen Platz.
+Gast 7 möchte das Cafe betreten. Aktuell warten 1 Gäste auf einen Platz.
+Gast 10 möchte das Cafe betreten. Aktuell warten 2 Gäste auf einen Platz.
+Gast 9 möchte das Cafe betreten. Aktuell warten 3 Gäste auf einen Platz.
+Gast 6 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 2 Gäste auf einen Kellner.
+Susi ist fertig mit der Bestellung von Gast 1. Es dauerte 6.136 Minuten
+Gast 1 beginnt, Eis zu essen
+Gast 5 konnte nach 5.578 Minuten bestellen.
+Susi bearbeitet die Bestellung von Gast 5
+Alex ist fertig mit der Bestellung von Gast 4. Es dauerte 6.835 Minuten
+Gast 4 beginnt, Eis zu essen
+Gast 2 konnte nach 6.577 Minuten bestellen.
+Alex bearbeitet die Bestellung von Gast 2
+Tom ist fertig mit der Bestellung von Gast 3. Es dauerte 7.455 Minuten
+Gast 3 beginnt, Eis zu essen
+Gast 11 möchte das Cafe betreten. Aktuell warten 4 Gäste auf einen Platz.
+Gast 13 möchte das Cafe betreten. Aktuell warten 5 Gäste auf einen Platz.
+Gast 12 möchte das Cafe betreten. Aktuell warten 6 Gäste auf einen Platz.
+wieder 1 Sitze frei.
+Gast 7 hat einen Sitzplatz nach 5.474 Minuten bekommen. Noch 0 Sitze frei.
+Gast 1 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 10.476 Minuten
+Susi ist fertig mit der Bestellung von Gast 5. Es dauerte 3.349 Minuten
+Gast 5 beginnt, Eis zu essen
+wieder 1 Sitze frei.
+Gast 4 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 11.476 Minuten
+Gast 9 hat einen Sitzplatz nach 6.474 Minuten bekommen. Noch 0 Sitze frei.
+wieder 1 Sitze frei.
+Gast 3 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 11.542 Minuten
+Gast 6 konnte nach 5.143 Minuten bestellen.
+Tom bearbeitet die Bestellung von Gast 6
+Gast 7 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 0 Gäste auf einen Kellner.
+Gast 7 konnte nach 0.0 Minuten bestellen.
+Susi bearbeitet die Bestellung von Gast 7
+Gast 9 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 0 Gäste auf einen Kellner.
+Alex ist fertig mit der Bestellung von Gast 2. Es dauerte 4.94 Minuten
+Gast 2 beginnt, Eis zu essen
+Gast 8 hat einen Sitzplatz nach 8.413 Minuten bekommen. Noch 0 Sitze frei.
+wieder 1 Sitze frei.
+Gast 5 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 13.826 Minuten
+Gast 11 hat einen Sitzplatz nach 3.823 Minuten bekommen. Noch 0 Sitze frei.
+Gast 8 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 8 konnte nach 0.0 Minuten bestellen.
+Alex bearbeitet die Bestellung von Gast 8
+Gast 14 möchte das Cafe betreten. Aktuell warten 3 Gäste auf einen Platz.
+Gast 15 möchte das Cafe betreten. Aktuell warten 4 Gäste auf einen Platz.
+Gast 16 möchte das Cafe betreten. Aktuell warten 5 Gäste auf einen Platz.
+Susi ist fertig mit der Bestellung von Gast 7. Es dauerte 3.276 Minuten
+Gast 7 beginnt, Eis zu essen
+Gast 11 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 11 konnte nach 0.0 Minuten bestellen.
+Susi bearbeitet die Bestellung von Gast 11
+wieder 1 Sitze frei.
+Gast 2 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 16.416 Minuten
+Gast 12 hat einen Sitzplatz nach 6.413 Minuten bekommen. Noch 0 Sitze frei.
+Tom ist fertig mit der Bestellung von Gast 6. Es dauerte 5.993 Minuten
+Gast 6 beginnt, Eis zu essen
+wieder 1 Sitze frei.
+Gast 7 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 13.111 Minuten
+Gast 9 konnte nach 4.943 Minuten bestellen.
+Tom bearbeitet die Bestellung von Gast 9
+Gast 12 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 0 Gäste auf einen Kellner.
+Alex ist fertig mit der Bestellung von Gast 8. Es dauerte 3.874 Minuten
+Gast 8 beginnt, Eis zu essen
+Gast 14 hat einen Sitzplatz nach 3.342 Minuten bekommen. Noch 0 Sitze frei.
+Gast 17 möchte das Cafe betreten. Aktuell warten 4 Gäste auf einen Platz.
+Gast 19 möchte das Cafe betreten. Aktuell warten 5 Gäste auf einen Platz.
+Gast 18 möchte das Cafe betreten. Aktuell warten 6 Gäste auf einen Platz.
+Gast 14 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 14 konnte nach 0.0 Minuten bestellen.
+Alex bearbeitet die Bestellung von Gast 14
+wieder 1 Sitze frei.
+Gast 6 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 15.534 Minuten
+Gast 15 hat einen Sitzplatz nach 5.53 Minuten bekommen. Noch 0 Sitze frei.
+wieder 1 Sitze frei.
+Gast 8 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 16.347 Minuten
+Gast 16 hat einen Sitzplatz nach 6.343 Minuten bekommen. Noch 0 Sitze frei.
+Tom ist fertig mit der Bestellung von Gast 9. Es dauerte 3.923 Minuten
+Gast 9 beginnt, Eis zu essen
+Gast 15 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 15 konnte nach 0.0 Minuten bestellen.
+Tom bearbeitet die Bestellung von Gast 15
+Susi ist fertig mit der Bestellung von Gast 11. Es dauerte 7.556 Minuten
+Gast 11 beginnt, Eis zu essen
+Gast 16 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 16 konnte nach 0.0 Minuten bestellen.
+Susi bearbeitet die Bestellung von Gast 16
+Gast 20 möchte das Cafe betreten. Aktuell warten 5 Gäste auf einen Platz.
+Gast 22 möchte das Cafe betreten. Aktuell warten 6 Gäste auf einen Platz.
+Gast 21 möchte das Cafe betreten. Aktuell warten 7 Gäste auf einen Platz.
+Gast 23 möchte das Cafe betreten. Aktuell warten 8 Gäste auf einen Platz.
+wieder 1 Sitze frei.
+Gast 9 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 20.035 Minuten
+wieder 2 Sitze frei.
+Gast 11 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 16.22 Minuten
+Gast 17 hat einen Sitzplatz nach 6.215 Minuten bekommen. Noch 1 Sitze frei.
+Alex ist fertig mit der Bestellung von Gast 14. Es dauerte 7.226 Minuten
+Gast 14 beginnt, Eis zu essen
+Gast 19 hat einen Sitzplatz nach 7.409 Minuten bekommen. Noch 0 Sitze frei.
+Gast 17 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 17 konnte nach 0.0 Minuten bestellen.
+Alex bearbeitet die Bestellung von Gast 17
+Tom ist fertig mit der Bestellung von Gast 15. Es dauerte 5.349 Minuten
+Gast 15 beginnt, Eis zu essen
+Susi ist fertig mit der Bestellung von Gast 16. Es dauerte 5.597 Minuten
+Gast 16 beginnt, Eis zu essen
+Gast 19 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 19 konnte nach 0.0 Minuten bestellen.
+Tom bearbeitet die Bestellung von Gast 19
+Gast 24 möchte das Cafe betreten. Aktuell warten 7 Gäste auf einen Platz.
+Gast 26 möchte das Cafe betreten. Aktuell warten 8 Gäste auf einen Platz.
+Gast 25 möchte das Cafe betreten. Aktuell warten 9 Gäste auf einen Platz.
+Gast 27 möchte das Cafe betreten. Aktuell warten 10 Gäste auf einen Platz.
+wieder 1 Sitze frei.
+Gast 14 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 15.411 Minuten
+Gast 10 hat einen Sitzplatz nach 25.415 Minuten bekommen. Noch 0 Sitze frei.
+wieder 1 Sitze frei.
+Gast 15 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 15.624 Minuten
+Gast 20 hat einen Sitzplatz nach 5.621 Minuten bekommen. Noch 0 Sitze frei.
+Gast 10 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 10 konnte nach 0.0 Minuten bestellen.
+Susi bearbeitet die Bestellung von Gast 10
+wieder 1 Sitze frei.
+Gast 16 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 16.903 Minuten
+Gast 22 hat einen Sitzplatz nach 6.9 Minuten bekommen. Noch 0 Sitze frei.
+Gast 20 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Alex ist fertig mit der Bestellung von Gast 17. Es dauerte 5.652 Minuten
+Gast 17 beginnt, Eis zu essen
+Gast 22 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 2 Gäste auf einen Kellner.
+Gast 22 konnte nach 0.0 Minuten bestellen.
+Alex bearbeitet die Bestellung von Gast 22
+Tom ist fertig mit der Bestellung von Gast 19. Es dauerte 5.209 Minuten
+Gast 19 beginnt, Eis zu essen
+Gast 28 möchte das Cafe betreten. Aktuell warten 8 Gäste auf einen Platz.
+Gast 30 möchte das Cafe betreten. Aktuell warten 9 Gäste auf einen Platz.
+Gast 29 möchte das Cafe betreten. Aktuell warten 10 Gäste auf einen Platz.
+wieder 1 Sitze frei.
+Gast 17 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 16.159 Minuten
+Gast 12 konnte nach 17.939 Minuten bestellen.
+Tom bearbeitet die Bestellung von Gast 12
+wieder 2 Sitze frei.
+Gast 19 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 17.432 Minuten
+Gast 18 hat einen Sitzplatz nach 17.432 Minuten bekommen. Noch 1 Sitze frei.
+Susi ist fertig mit der Bestellung von Gast 10. Es dauerte 6.318 Minuten
+Gast 10 beginnt, Eis zu essen
+Gast 13 hat einen Sitzplatz nach 27.825 Minuten bekommen. Noch 0 Sitze frei.
+Alex ist fertig mit der Bestellung von Gast 22. Es dauerte 5.028 Minuten
+Gast 22 beginnt, Eis zu essen
+Gast 18 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 18 konnte nach 0.0 Minuten bestellen.
+Susi bearbeitet die Bestellung von Gast 18
+Gast 13 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 13 konnte nach 0.0 Minuten bestellen.
+Alex bearbeitet die Bestellung von Gast 13
+Tom ist fertig mit der Bestellung von Gast 12. Es dauerte 4.434 Minuten
+Gast 12 beginnt, Eis zu essen
+wieder 1 Sitze frei.
+Gast 10 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 35.827 Minuten
+Gast 25 hat einen Sitzplatz nach 10.817 Minuten bekommen. Noch 0 Sitze frei.
+wieder 1 Sitze frei.
+Gast 22 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 16.658 Minuten
+Gast 27 hat einen Sitzplatz nach 11.655 Minuten bekommen. Noch 0 Sitze frei.
+Gast 25 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 25 konnte nach 0.0 Minuten bestellen.
+Tom bearbeitet die Bestellung von Gast 25
+Gast 27 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Alex ist fertig mit der Bestellung von Gast 13. Es dauerte 3.789 Minuten
+Gast 13 beginnt, Eis zu essen
+Gast 20 konnte nach 10.688 Minuten bestellen.
+Alex bearbeitet die Bestellung von Gast 20
+wieder 1 Sitze frei.
+Gast 12 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 33.598 Minuten
+Gast 21 hat einen Sitzplatz nach 18.592 Minuten bekommen. Noch 0 Sitze frei.
+Gast 21 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Susi ist fertig mit der Bestellung von Gast 18. Es dauerte 6.806 Minuten
+Gast 18 beginnt, Eis zu essen
+wieder 1 Sitze frei.
+Gast 13 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 36.289 Minuten
+Gast 28 hat einen Sitzplatz nach 11.279 Minuten bekommen. Noch 0 Sitze frei.
+Gast 28 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 2 Gäste auf einen Kellner.
+Gast 28 konnte nach 0.0 Minuten bestellen.
+Susi bearbeitet die Bestellung von Gast 28
+wieder 1 Sitze frei.
+Gast 18 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 28.636 Minuten
+Gast 30 hat einen Sitzplatz nach 13.631 Minuten bekommen. Noch 0 Sitze frei.
+Tom ist fertig mit der Bestellung von Gast 25. Es dauerte 7.194 Minuten
+Gast 25 beginnt, Eis zu essen
+Gast 30 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 2 Gäste auf einen Kellner.
+Gast 30 konnte nach 0.0 Minuten bestellen.
+Tom bearbeitet die Bestellung von Gast 30
+Alex ist fertig mit der Bestellung von Gast 20. Es dauerte 7.067 Minuten
+Gast 20 beginnt, Eis zu essen
+Susi ist fertig mit der Bestellung von Gast 28. Es dauerte 4.038 Minuten
+Gast 28 beginnt, Eis zu essen
+wieder 1 Sitze frei.
+Gast 25 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 22.432 Minuten
+Gast 27 konnte nach 9.226 Minuten bestellen.
+Susi bearbeitet die Bestellung von Gast 27
+wieder 2 Sitze frei.
+Gast 20 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 28.35 Minuten
+Gast 21 konnte nach 8.612 Minuten bestellen.
+Alex bearbeitet die Bestellung von Gast 21
+wieder 3 Sitze frei.
+Gast 28 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 19.613 Minuten
+Gast 23 hat einen Sitzplatz nach 29.617 Minuten bekommen. Noch 2 Sitze frei.
+Gast 23 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 0 Gäste auf einen Kellner.
+Susi ist fertig mit der Bestellung von Gast 27. Es dauerte 4.4 Minuten
+Gast 27 beginnt, Eis zu essen
+Gast 29 hat einen Sitzplatz nach 21.831 Minuten bekommen. Noch 1 Sitze frei.
+Tom ist fertig mit der Bestellung von Gast 30. Es dauerte 6.606 Minuten
+Gast 30 beginnt, Eis zu essen
+Gast 24 hat einen Sitzplatz nach 26.838 Minuten bekommen. Noch 0 Sitze frei.
+Gast 24 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 24 konnte nach 0.0 Minuten bestellen.
+Tom bearbeitet die Bestellung von Gast 24
+Alex ist fertig mit der Bestellung von Gast 21. Es dauerte 5.23 Minuten
+Gast 21 beginnt, Eis zu essen
+Gast 29 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 1 Gäste auf einen Kellner.
+Gast 29 konnte nach 0.0 Minuten bestellen.
+Susi bearbeitet die Bestellung von Gast 29
+wieder 1 Sitze frei.
+Gast 27 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 29.833 Minuten
+Gast 23 konnte nach 3.438 Minuten bestellen.
+Alex bearbeitet die Bestellung von Gast 23
+wieder 2 Sitze frei.
+Gast 30 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 24.837 Minuten
+Gast 26 hat einen Sitzplatz nach 29.838 Minuten bekommen. Noch 1 Sitze frei.
+Gast 26 hat die Karte fertig studiert und möchte nun bestellen. Aktuell warten 0 Gäste auf einen Kellner.
+wieder 2 Sitze frei.
+Gast 21 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 36.58 Minuten
+Susi ist fertig mit der Bestellung von Gast 29. Es dauerte 3.093 Minuten
+Gast 29 beginnt, Eis zu essen
+Gast 26 konnte nach 0.519 Minuten bestellen.
+Susi bearbeitet die Bestellung von Gast 26
+Tom ist fertig mit der Bestellung von Gast 24. Es dauerte 3.579 Minuten
+Gast 24 beginnt, Eis zu essen
+Alex ist fertig mit der Bestellung von Gast 23. Es dauerte 3.561 Minuten
+Gast 23 beginnt, Eis zu essen
+wieder 3 Sitze frei.
+Gast 29 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 29.704 Minuten
+wieder 4 Sitze frei.
+Gast 24 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 34.948 Minuten
+Susi ist fertig mit der Bestellung von Gast 26. Es dauerte 3.567 Minuten
+Gast 26 beginnt, Eis zu essen
+wieder 5 Sitze frei.
+Gast 23 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 41.4 Minuten
+wieder 6 Sitze frei.
+Gast 26 hat fertig gegessen und geht nun. Aufenthaltsdauer (inkl. warten): 38.283 Minuten
+
+Process finished with exit code 0
