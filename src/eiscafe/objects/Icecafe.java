@@ -2,8 +2,14 @@ package eiscafe.objects;
 
 import java.util.HashSet;
 import java.util.Set;
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.ReentrantLock;
 
 public class Eiscafe {
+
+    private final ReentrantLock sitzplatzLock;
+
+    private final Condition condition;
 
     private Set<Integer> aufSitzplatzWartendeGaeste;
 
@@ -14,6 +20,8 @@ public class Eiscafe {
     private int freieSitze;
 
     public Eiscafe() {
+        this.sitzplatzLock = new ReentrantLock();
+        this.condition = sitzplatzLock.newCondition();
         this.aufSitzplatzWartendeGaeste = new HashSet<>();
         this.aufKellnerWartendeGaeste = new HashSet<>();
         this.freieSitze = 6;
@@ -27,20 +35,26 @@ public class Eiscafe {
      * ein Gast versucht, das Eiscafe zu betreten und sich zu setzen. Falls kein Platz ist, wartet der Gast.
      * Das Warten erfolgt nicht in einer Schlange, sondern alle Wartenden stürzen sich auf verfügbare Plätze.
      */
-    public synchronized void eintreten(int gastID) {
+    public void eintreten(int gastID) {
+        sitzplatzLock.lock();
         long startTime = System.currentTimeMillis();
         System.out.println("Gast " + gastID + " möchte das Cafe betreten. Aktuell warten " + aufSitzplatzWartendeGaeste.size() + " Gäste auf einen Platz.");
-        while(freieSitze == 0) {
-            try {
-                aufSitzplatzWartendeGaeste.add(gastID);
-                wait();
-            } catch (InterruptedException e) {
+        try {
+            while(freieSitze == 0) {
+                try {
+                    aufSitzplatzWartendeGaeste.add(gastID);
+                    wait();
+                } catch (InterruptedException e) {
 
+                }
             }
+            aufSitzplatzWartendeGaeste.remove(gastID);
+            freieSitze--;
+            System.out.println("Gast " + gastID + " hat einen Sitzplatz nach " + (System.currentTimeMillis() - startTime) / 1000.0 + " Minuten bekommen. Noch " + freieSitze + " Sitze frei.");
+        } finally {
+            sitzplatzLock.unlock();
         }
-        aufSitzplatzWartendeGaeste.remove(gastID);
-        freieSitze--;
-        System.out.println("Gast " + gastID + " hat einen Sitzplatz nach " + (System.currentTimeMillis() - startTime) / 1000.0 + " Minuten bekommen. Noch " + freieSitze + " Sitze frei.");
+
     }
 
     public synchronized Kellner kellnerRufen(int gastID) {
